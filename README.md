@@ -7,20 +7,35 @@ Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
 
-### Step 2: 
- 
-### Step 3: 
+open the file myfile.txt in read mode
+### Step 2:
 
-### Step 4:  
+open the file yourfile.txt in write mode
+### Step 3:
 
-### Step 5: 
+read the file
+### Step 4:
 
-### Step 6: 
+write the file into another file
+### Step 5:
 
+end the program
 ## PROGRAM:
-
-### OUTPUT:
-
+```
+Developed by:MANOJ KUMAR S
+Reference no:212223240082
+a=open("myfile.txt",'r')
+b=open("yourfile.txt",'w')
+f=a.read()
+g=b.write(f)
+```
+## OUTPUT:
+### output
+![Alt text](image-1.png)
+### Text File
+![Alt text](image.png)
+### copy file
+![Alt text](image-2.png)
 
 
 ## RESULT:
